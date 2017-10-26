@@ -1,0 +1,5 @@
+com\woniu\controller\WebController.class
+com\woniu\RedisComponent\RedisComponent.class
+com\woniu\bean\User.class
+com\woniu\ConfigClass.class
+com\woniu\SpringbootSentinelredisApplication.class
